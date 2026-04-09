@@ -83,9 +83,9 @@
   "theme": {
     "primaryColor": "#222222",
     "accentColor": "#888888",
-    "backgroundColor": "#ffffff",
+    "backgroundColor": "#813434",
     "footerBackground": "#111111",
-    "sidebarBackground": "#fafafa",
+    "sidebarBackground": "#9e4646",
     "fontSans": "Montserrat",
     "fontSerif": "Cormorant Garamond"
   }
