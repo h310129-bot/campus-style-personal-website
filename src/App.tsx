@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { Instagram, Facebook, Twitter, Search, ChevronRight, ArrowLeft } from 'lucide-react';
 import content from './data/content.json';
 
+
 const theme = content.theme;
 
 export default function App() {
