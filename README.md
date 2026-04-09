@@ -1,4 +1,5 @@
-# Campus Style Personal Website
+
+
 
 一個為高中生設計的個人部落格網站模板，使用 React + Tailwind CSS 打造，支援 GitHub Pages 一鍵部署。
 
@@ -67,8 +68,9 @@
 
 ```json
 {
-  "siteName": "CAMPUS DIARIES",
-  "subtitle": "高中生活與日常穿搭誌"
+  "siteName": "david life",
+  "subtitle": "高中日常生活與穿搭誌"
+
 }
 ```
 

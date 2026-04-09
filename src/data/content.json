@@ -1,6 +1,6 @@
 {
-  "siteName": "CAMPUS DIARIES",
-  "subtitle": "高中生活與日常穿搭誌",
+  "siteName": "david life",
+  "subtitle": "高中日常生活與穿搭誌",
 
   "theme": {
     "primaryColor": "#222222",
@@ -13,24 +13,24 @@
   },
 
   "socialLinks": {
-    "instagram": "",
-    "facebook": "",
+    "instagram": "https://instagram.com/你的帳號",
+    "facebook": "https://facebook.com/你的帳號",
     "twitter": ""
   },
 
   "nav": [
     { "label": "首頁", "type": "home" },
     { "label": "校園穿搭", "type": "category", "value": "OUTFIT" },
-    { "label": "生活隨筆", "type": "category", "value": "LIFESTYLE" },
-    { "label": "關於我", "type": "about" }
+    { "label": "華華日誌", "type": "category", "value": "LIFESTYLE" },
+    { "label": "華華", "type": "about" }
   ],
 
   "heroPost": {
     "id": "post-000",
     "category": "LIFESTYLE",
     "title": "高二下學期的開學日常：如何保持讀書與生活的平衡",
-    "date": "2026.03.12",
-    "image": "https://images.unsplash.com/photo-1517842645767-c639042777db?q=80&w=1200&auto=format&fit=crop",
+    "date": "2008.08.08",
+    "image": "https://cdn.phototourl.com/free/2026-04-09-488c9162-75f0-4920-8f28-fce1b9eef209.png",
     "excerpt": "新的學期開始了，面對越來越重的課業壓力，我試著在筆記本上規劃出屬於自己的時間表，讓生活不僅僅只有考試，還有更多值得記錄的美好瞬間...",
     "content": [
       "新的學期開始了，面對越來越重的課業壓力，我試著在筆記本上規劃出屬於自己的時間表，讓生活不僅僅只有考試，還有更多值得記錄的美好瞬間。",
@@ -47,7 +47,7 @@
       "category": "OUTFIT",
       "title": "春季校園穿搭指南：制服外的微小叛逆",
       "date": "2026.03.05",
-      "image": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?q=80&w=800&auto=format&fit=crop",
+      "image": "https://cdn.phototourl.com/free/2026-04-09-b911a032-099d-4028-8904-953ab211a5f8.png",
       "excerpt": "雖然每天都要穿制服，但透過不同的球鞋、帆布包或是外套的搭配，也能在規矩中展現自己的個性。今天來分享三套我最愛的春季校園穿搭。",
       "content": [
         "雖然每天都要穿制服，但透過不同的球鞋、帆布包或是外套的搭配，也能在規矩中展現自己的個性。今天來分享三套我最愛的春季校園穿搭。",
@@ -62,7 +62,7 @@
       "category": "STUDY",
       "title": "期中考備戰：我的讀書筆記分享",
       "date": "2026.02.28",
-      "image": "https://images.unsplash.com/photo-1456406644174-8ddd4cd52a06?q=80&w=800&auto=format&fit=crop",
+      "image": "https://cdn.phototourl.com/free/2026-04-09-37299f3b-0aab-490a-9990-5c229ffe605b.png",
       "excerpt": "這次期中考的範圍真的很大，我整理了一些歷史和地理的重點筆記，並分享我平常使用的番茄鐘讀書法，希望能幫助到大家一起度過難關。",
       "content": [
         "這次期中考的範圍真的很大，我整理了一些歷史和地理的重點筆記，並分享我平常使用的番茄鐘讀書法，希望能幫助到大家一起度過難關。",
@@ -77,7 +77,7 @@
       "category": "LIFESTYLE",
       "title": "週末探店：隱藏在巷弄裡的文青咖啡廳",
       "date": "2026.02.15",
-      "image": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?q=80&w=800&auto=format&fit=crop",
+      "image": "https://cdn.phototourl.com/free/2026-04-09-c9bc348e-0ae8-466b-9ace-6be888c445e6.png",
       "excerpt": "上個週末和朋友去了一家新開的咖啡廳，店裡的氛圍超級好，木質調的裝潢配上好聽的爵士樂，甜點也意外地好吃！",
       "content": [
         "上個週末和朋友去了一家新開的咖啡廳，店裡的氛圍超級好，木質調的裝潢配上好聽的爵士樂，甜點也意外地好吃！",
@@ -123,7 +123,7 @@
     "about": {
       "title": "ABOUT ME",
       "image": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?q=80&w=400&auto=format&fit=crop",
-      "name": "小明 (Ming)",
+      "name": "185華華",
       "description": "17歲，喜歡攝影、穿搭和記錄生活。這裡是我分享高中日常、穿搭靈感與讀書心得的小天地。"
     },
     "aboutExtended": "歡迎來到我的個人網站！這裡記錄了我的校園生活、社團活動以及各種天馬行空的想法。希望透過這些文字與影像，能與你分享生活中的美好瞬間。",
